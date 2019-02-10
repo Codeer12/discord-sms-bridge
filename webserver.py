@@ -7,7 +7,7 @@ import requests
 import json
 
 channelID = 543977811287998464 # channel to send texts to. enable dev mode on discord and right-click on the channel: "Copy ID"
-botToken  = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+botToken  = "NDE4MTUzNjQ5MDk3OTMyODAx.D0EqqQ.gI-y0JQHen0LFYCZ2p_bvYPePfI"
 botName   = "sms-and-phone-call-connection" # doesn't have to be the real bot name, just for user-agent
 yourUrl   = "http://some.url" # idk what this is supposed to be. it's for user agent.
 #                               not important
